@@ -1,3 +1,3 @@
 # AlizTech
 
-My solution for the assestment.
+My solution for the assesment.
